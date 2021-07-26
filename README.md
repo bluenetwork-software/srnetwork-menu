@@ -7,3 +7,7 @@ Fivem için kodlanan Radial-Menu tarzında menü
 * Script "TAB" tuşu ile çalışmaktadır
 * Fix Komutu yoktur. "TAB" tuşuna sürekli bastığınızda takılır ise "ESC" tuşuna basarak menüyü kapatabilirsiniz.
 * Script ismini değiştirirseniz, Script çalışmayabilir. 
+
+Video Önizleme
+
+Youtube : https://www.youtube.com/watch?v=6rSPV5u48Wk
